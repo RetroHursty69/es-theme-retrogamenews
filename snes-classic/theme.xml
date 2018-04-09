@@ -1,0 +1,13 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>2017  ·  SNES-CLASSIC</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>Super NES Classic Edition is a dedicated video game console by Nintendo, which emulates the Super Nintendo Entertainment System. It comes with twenty-one Super NES titles pre-installed, including the new release Star Fox 2</text>
+  </text>
+ </view>
+</theme>
