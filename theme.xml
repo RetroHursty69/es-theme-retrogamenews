@@ -133,7 +133,7 @@
 <helpsystem name="help">
     <fontPath>./_assets/Roboto-Medium.ttf</fontPath>
     <fontSize>0.018</fontSize>
-	<pos>0.46 0.92</pos>
+	<pos>1.46 1.92</pos>
 	<textColor>78c7ef</textColor>
     <iconColor>78c7ef</iconColor>
 </helpsystem>
